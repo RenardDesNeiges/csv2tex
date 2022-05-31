@@ -1,0 +1,6 @@
+.DS_Store
+csv2tex/__pycache__/__init__.cpython-39.pyc
+csv2tex/__pycache__/parse_csv.cpython-39.pyc
+csv2tex/__pycache__/receipts.cpython-39.pyc
+readme.md
+.vscode/launch.json
